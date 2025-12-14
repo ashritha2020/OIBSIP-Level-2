@@ -1,0 +1,4 @@
+,accuracy,f1_weighted
+RandomForest,0.869,0.849
+SGD,0.773,0.76
+SVC,0.847,0.81
